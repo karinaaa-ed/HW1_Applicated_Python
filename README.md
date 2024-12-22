@@ -8,6 +8,6 @@
 
 # Файлы
 
-- `app.py`: Файл с реализацией приложения Streamlit
-- `requirements.txt`:
+- `app.py`: файл с реализацией приложения Streamlit
+- `requirements.txt`: файл с требованиями к пакету 
 - `ДЗ_1_Прикладной_Python_Едигарян.ipynb`:  
